@@ -1,11 +1,11 @@
 # Mocha_Debrief
   
   
-You should write Macha code that will test the functionalities of add() and fizzBuzz() functions.  
+You should write Mocha code that will test the functionalities of add() and fizzBuzz() functions.  
 Don't forget to initialize npm, instal Mocha, and change the scripts in the package.json to run the test suite <command npm> test.  
 Try to use TDD - test code, implement code, refactor the code.  
   
-
+  
 Create a function called add() that returns the sum of two given numbers  
 Using TDD write ensure your function can do the following:  
     1. add two arguments  
